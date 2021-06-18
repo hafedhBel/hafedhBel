@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hafedhBel
 - 👀 I’m interested in development .
 - 🌱 I’m currently learning full stack web developer.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me b.hafedh@protonmail.com .
+- 📫 How to reach me https://hafedhbel.github.io/Personal-Site/ .
 
 <!---
 hafedhBel/hafedhBel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
