@@ -2,7 +2,7 @@
 - 👀 I’m interested in development .
 - 🌱 I’m currently learning full stack web developer.
 - 📫 How to reach me https://dgitex.github.io/x/
-- https://hafedhbel.github.io/Personal-Site/ .
+- belhajali.github.io/H .
 
 <!---
 hafedhBel/hafedhBel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
